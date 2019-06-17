@@ -7,7 +7,7 @@
   [MIT 18.06SC from Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) includes recitations by 6 teaching assistanet between each lecture. If you want to go through the standard Linear Algebra subjects as quickly as possible, I recommend wataching Spring 2005 version without stopping and reviews. If you want to make sure whether you have understook the material coverd in each lecture enough, use Fall 2011 and solve the practice problem with the course TAs.
 
 - [MIT 18.02, Multivariate Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
-  The course has Homework help [playlist](https://www.youtube.com/playlist?list=PLF07555F3CC669D01) based on Fall 2007 ectures by Prof Denis Auroux.
+  The course has Homework help [playlist](https://www.youtube.com/playlist?list=PLF07555F3CC669D01) based on Fall 2007 ectures by Prof Denis Auroux. The homework playlist has 70 videos. The first few lectures are essential for those who have not seen vectors and matrices before or need a big brushup. 
 
 - MIT 18.650 Statistics for Applications, Fall 2016 [https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0]
 
