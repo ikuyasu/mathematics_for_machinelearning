@@ -14,5 +14,8 @@ Spring 2005 [https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8]
 
 - MIT 6.042J Mathematics for Computer Science, Fall 2010 [https://www.youtube.com/playlist?list=PLB7540DEDD482705B]
 
-- MIT 6.034 Artificial Intelligence 
+- [MIT 6.034 Artificial Intelligence](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) 
   Based on Fall 2010 lectures by Prof. Patrick Winston. The class is carried out with a set of panels of chalkboard he writes on, which is rare in teaching a subject like AI while many mathematics couress still uses chalkboard or whiteboard in many universties.  
+
+- [MIT 18.03 Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
+  Not directly relevant to the Machine Learing but everyone in the mathematics leaning field should know the    basic knowledge of differential equations and partical differential equations at the course level.
