@@ -20,3 +20,6 @@
 
 - [MIT 18.03 Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
   Not directly relevant to the Machine Learing but everyone in the mathematics leaning field should know the    basic knowledge of differential equations and partical differential equations at the course level.
+
+- [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+  Introductory calculus course lectured by Prof. David Jerison recorded in 2006, and has a few versions. 
