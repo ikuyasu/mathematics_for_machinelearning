@@ -19,7 +19,8 @@
   Based on Fall 2010 lectures by Prof. Patrick Winston. The class is carried out with a set of panels of chalkboard he writes on, which is rare in teaching a subject like AI while many mathematics couress still uses chalkboard or whiteboard in many universties.  
 
 - [MIT 18.03 Differential Equations](https://www.youtube.com/playlist?list=PLEC88901EBADDD980)
-  Not directly relevant to the Machine Learing but everyone in the mathematics leaning field should know the    basic knowledge of differential equations and partical differential equations at the course level.
+  Not directly relevant to the Machine Learing but everyone in the mathematics leaning field should know the    basic knowledge of differential equations and partical differential equations at the course level. Highly recomend for this class to 
+  follow [MIT 18.03SC Differential Equations, Fall 2011](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) to access     recitation videos that are more essential to viwew in this course.
 
 - [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
   Introductory calculus course lectured by Prof. David Jerison recorded in 2006, and has a few versions. 
