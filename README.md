@@ -27,5 +27,8 @@
 
 - [Standford EE 364A Convex Optimization I](https://www.youtube.com/view_play_list?p=3940DD956CDF0622)
    Lecture collections by Prof. Stephen Boyd of Electrical Engineering department.
+   
+- [Lecture Collection | Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
+Introduction to Linear Dynamical Systems (EE263) 
 
  
