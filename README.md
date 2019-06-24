@@ -25,5 +25,7 @@
 - [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
   Introductory calculus course lectured by Prof. David Jerison recorded in 2006, and has a few versions. 
 
- - Standford Lecture Collection | Convex Optimization [playlist](https://www.youtube.com/view_play_list?p=3940DD956CDF0622)
+- [Standford EE 364A Convex Optimization I](https://www.youtube.com/view_play_list?p=3940DD956CDF0622)
+   Lecture collections by Prof. Stephen Boyd of Electrical Engineering department.
+
  
