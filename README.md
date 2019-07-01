@@ -31,4 +31,5 @@
 - [Lecture Collection | Linear Dynamical Systems](https://www.youtube.com/playlist?list=PL06960BA52D0DB32B)
 Introduction to Linear Dynamical Systems (EE263) 
 
+- [MIT 8.01SC Classical Mechanics, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
  
