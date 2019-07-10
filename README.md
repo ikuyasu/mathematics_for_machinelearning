@@ -1,7 +1,7 @@
 # Mathematics for Machine Learning
 
 ## 1. MIT OpenCourseWare
-- [MIT 18.06, Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F)
+- [MIT 18.06, Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
   This course has several versions all of which are based on the lectures by Prof. Gilbert Strang from Spring 2005.
   Watch the excellent introduction by himself: [Course Introduction | MIT 18.06SC Linear Algebra](https://www.youtube.com/watch?v=hNDFwVVKVk0&list=PL221E2BBF13BECF6C) 
   [MIT 18.06SC from Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) includes recitations by 6 teaching assistanet between each lecture. If you want to go through the standard Linear Algebra subjects as quickly as possible, I recommend wataching Spring 2005 version without stopping and reviews. If you want to make sure whether you have understook the material coverd in each lecture enough, use Fall 2011 and solve the practice problem with the course TAs.
